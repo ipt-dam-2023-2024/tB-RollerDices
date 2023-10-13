@@ -2,4 +2,5 @@
 <resources>
     <string name="btText">Clique para mudar o dado</string>
     <string name="descricaoImagem">imagem do dado associado ao número no ecrã</string>
+    <string name="toastText">O número gerado é igual ao que já estava representado…</string>
 </resources>

@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         // pelo facto do num gerado ser igual ao que lá estava representado
         if(txt.text==novoNumeroDado.toString())
             Toast.makeText(this,
-                "O número gerado é igual ao que já estava representado...",
+                getString(R.string.toastText),
                 Toast.LENGTH_LONG).show()
 
         // associar o num. à TextView
